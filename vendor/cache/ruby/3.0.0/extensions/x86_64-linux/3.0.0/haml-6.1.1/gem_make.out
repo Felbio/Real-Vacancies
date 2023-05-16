@@ -1,0 +1,16 @@
+current directory: /home/wjfelipe/real_vagas/vendor/cache/ruby/3.0.0/gems/haml-6.1.1/ext/haml
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230516-47162-kwlkr3.rb extconf.rb
+creating Makefile
+
+current directory: /home/wjfelipe/real_vagas/vendor/cache/ruby/3.0.0/gems/haml-6.1.1/ext/haml
+make DESTDIR\= clean
+
+current directory: /home/wjfelipe/real_vagas/vendor/cache/ruby/3.0.0/gems/haml-6.1.1/ext/haml
+make DESTDIR\=
+compiling haml.c
+compiling hescape.c
+linking shared-object haml/haml.so
+
+current directory: /home/wjfelipe/real_vagas/vendor/cache/ruby/3.0.0/gems/haml-6.1.1/ext/haml
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 haml.so ./.gem.20230516-47162-r5gnx8/haml
