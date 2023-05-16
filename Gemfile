@@ -17,12 +17,12 @@ gem 'figaro'
 gem 'simple_form'
 gem 'devise'
 gem 'haml'
-# gem "haml-rails", "~> 1.0.0"
+gem "haml-rails", "~> 1.0.0"
 
 # gem 'kaminari'
 # gem 'kaminari-bootstrap'
 # gem 'ransack'
-gem 'select2-rails'
+# gem 'select2-rails'
 
 group :development, :test do  
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
